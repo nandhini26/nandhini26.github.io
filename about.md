@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi everyone!
+
+Welcome to my testing Web-Page.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will be posting more information about prediction modelling of formula one race.Please staty tuned!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nandhini.rohini@gmail.com](mailto:email@domain.com)
