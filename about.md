@@ -6,11 +6,11 @@ permalink: /about/
 
 Hi everyone!
 
-Welcome to my testing Web-Page.
+Welcome to my first Web-Page.
 
 ### More Information
 
-I will be posting more information about prediction modelling of formula one race.Please staty tuned!
+I will be posting more information about prediction modelling of formula one race.Please stay tuned!
 
 ### Contact me
 
