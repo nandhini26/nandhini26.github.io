@@ -310,7 +310,7 @@ plt.show()
 ```
 
 
-![png](/images/output_16_0.png)
+![png](output_16_0.png)
 
 
 ---
@@ -776,7 +776,7 @@ df_driver_name_races_played.head(20)
 df=df_driver_name_races_played
 ```
 
-### Remember this doesnot considers whether they have raced till 2019
+### Remember this par of the analysis does not consider whether they have raced till 2019
 
 
 ```python
@@ -800,7 +800,7 @@ plt.show()
 ```
 
 
-![png](/images/output_34_0.png)
+![png](output_34_0.png)
 
 
 ### ***Findings*** ###
@@ -1046,7 +1046,7 @@ plt.show()
 ```
 
 
-![png](/images/output_44_0.png)
+![png](output_44_0.png)
 
 
 ### ***Findings*** ###
@@ -1670,7 +1670,7 @@ plt.show()
 ```
 
 
-![png](/images/output_64_0.png)
+![png](output_64_0.png)
 
 
 ---
@@ -1765,7 +1765,7 @@ plt.show()
 ```
 
 
-![png](/images/output_69_0.png)
+![png](output_69_0.png)
 
 
 ---
@@ -2113,7 +2113,7 @@ plt.show()
 ```
 
 
-![png](/images/output_78_0.png)
+![png](output_78_0.png)
 
 
 ### ***Findings*** ###
@@ -2310,7 +2310,7 @@ plt.show()
 ```
 
 
-![png](/images/output_93_0.png)
+![png](output_93_0.png)
 
 
 ### ***Findings*** ####
@@ -4392,7 +4392,7 @@ plt.show()
 ```
 
 
-![png](/images/output_139_0.png)
+![png](output_139_0.png)
 
 
 ### *** Findings *** ###
@@ -5059,7 +5059,7 @@ plt.show()
 ```
 
 
-![png](/images/output_159_0.png)
+![png](output_159_0.png)
 
 
 ### ***Findings*** ###
